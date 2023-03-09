@@ -2,7 +2,7 @@
 # CSC 419 Assignment 3: Exercise 2 (python)
 # --
 # uses mutable data types as default parameters
-# mto demonstrate side effects
+# to demonstrate side effects
 
 def addToList(item, lst=[]):
     lst.append(item)
